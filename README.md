@@ -5,7 +5,8 @@ Welcome to the Daily Verilog Challenges.Overview of this challenge 40 days of ve
 CHALLENGE
   >>Duration :40 Days
 
-  >>tools used: EDA Playground
+Tool :EDAPlayground(https://www.edaplayground.com/loginpage)
+
 
 REPOSITORY STRUCTURE
 
